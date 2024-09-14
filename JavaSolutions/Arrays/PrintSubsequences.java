@@ -1,5 +1,7 @@
+package JavaSolutions.Arrays;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Scanner;
 
 class PrintSubSequences {
     public static void main(String[] args) {
@@ -12,6 +14,7 @@ class PrintSubSequences {
             int temp = sc.nextInt();
             array.add(temp);
         }
+        sc.close();
         System.out.println("Array created");
 
         for (int i = 0; i < array.size(); i++) {
