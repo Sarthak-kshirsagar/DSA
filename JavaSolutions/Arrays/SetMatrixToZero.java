@@ -1,4 +1,4 @@
-package JavaSolutions;
+package JavaSolutions.Arrays;
 
 import java.util.*;
 
