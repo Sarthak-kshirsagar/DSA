@@ -1,3 +1,5 @@
+package JavaSolutions.Arrays;
+
 import java.util.*;
 
 class SubSequencesWithTargetSum {
